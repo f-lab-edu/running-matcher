@@ -1,7 +1,11 @@
 ## RunningMatcher 
 
-`RunningMatcher`는 현재 위치 기반으로 함께 달릴 친구를 1:1 매칭해주기 위한 프로젝트입니다.
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e438deba-4dbe-4824-99c1-2992d74bd943" width="800" height="800" alt="프로젝트 프로필" />
+   <p>
+    <strong>RunningMatcher</strong>는 현재 위치 기반으로 함께 달릴 친구를 1:1 매칭해주기 위한 프로젝트입니다.<br>
+  </p>
+</div>
 
 
 ## 📗 프로젝트 아키텍쳐
