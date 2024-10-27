@@ -1,9 +1,9 @@
 ## RunningMatcher 
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e438deba-4dbe-4824-99c1-2992d74bd943" width="800" height="800" alt="프로젝트 프로필" />
    <p>
     <strong>RunningMatcher</strong>는 현재 위치 기반으로 함께 달릴 친구를 1:1 매칭해주기 위한 프로젝트입니다.<br>
-    8차선 정속 주행을 일삼는 러닝 크루들을 모두 해체시켜버리는 것이 이 프로젝트의 취지입니다.
   </p>
 </div>
 
