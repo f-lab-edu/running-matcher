@@ -1,0 +1,12 @@
+services:
+  runmble-mysql:
+    image: "mysql:8.0.36"
+    container_name: "runmble-mysql"
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./mysql/schema.sql:/docker-entrypoint-initdb.d/schema.sql
+    environment:
+      - MYSQL_USER=runmble_developer
+      - MYSQL_PASSWORD=1q2w3e4r
+      - MYSQL_ROOT_PASSWORD=root_password
