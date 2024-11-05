@@ -1,3 +1,15 @@
 spring:
   application:
     name: core
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/runmble
+    username: "runmble_developer"
+    password: "1q2w3e4r"
+
+logging:
+  level:
+    org:
+      springframework:
+        jdbc: DEBUG
+
